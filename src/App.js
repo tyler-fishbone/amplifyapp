@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          I am the lord of all atoms.
+          I am the lord of all nuclei.
         </p>
       </header>
     </div>
